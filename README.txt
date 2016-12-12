@@ -2,8 +2,8 @@
 
 ## Before
 
-![Before](screenshots/before.png "Before")
+![Alt text](screenshots/before.png "Before")
 
 ## After
 
-![After](screenshots/before.png "After")
+![Alt text](screenshots/before.png "After")
