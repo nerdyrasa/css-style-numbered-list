@@ -2,7 +2,7 @@
 
 ## Before
 
-![Alt text](../css-style-numbered-list/tree/master/screenshots/before.png?raw=true "Before")
+![before](https://cloud.githubusercontent.com/assets/10632591/21106958/976752ba-c055-11e6-94d4-89cfc5492a05.png)
 
 ## After
 
