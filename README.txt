@@ -6,4 +6,4 @@
 
 ## After
 
-![Alt text](screenshots/before.png?raw=true "After")
+![Alt text](screenshots/after.png?raw=true "After")
