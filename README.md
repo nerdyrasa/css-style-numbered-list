@@ -6,4 +6,4 @@
 
 ## After
 
-![Alt text](../css-style-numbered-list/tree/master/screenshots/after.png?raw=true "After")
+![after](https://cloud.githubusercontent.com/assets/10632591/21106961/9cbe2446-c055-11e6-9b9e-ecc0de8551e9.png)
